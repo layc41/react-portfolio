@@ -23,7 +23,6 @@ None
   - React
   - CSS/Bootstrap
   - HTML
-  - PWA
 
 ## Original Credit
   - [Claudia Lay](https://github.com/layc41) 
