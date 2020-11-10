@@ -12,7 +12,7 @@ This is a portfolio of my web development projects.
 [Questions](#Questions)
 
 ## Screenshot
-![Profile Generator](/assets/screenshot.png)
+![Portfolio Screenshot](/public/assets/img/portfolio-screenshot.png)
 
 ## Licensing  
 None  
