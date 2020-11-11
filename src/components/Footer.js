@@ -9,7 +9,7 @@ function Footer() {
                         <div className="col-sm-6 col-lg-2 py-3">
                             <h5 className="mb-3">Pages</h5>
                             <ul className="menu-link">
-                                <li><a href="/about" className="">About</a></li>
+                                <li><a href="/" className="">About</a></li>
                                 <li><a href="/portfolio" className="">Portfolio</a></li>
                                 <li><a href="/contact" className="">Contact</a></li>
                                 <li><a href="/resume" className="">Resume</a></li>
