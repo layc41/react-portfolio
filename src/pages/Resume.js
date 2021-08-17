@@ -14,7 +14,7 @@ function Resume() {
                                 <div className="row justify-content-center">
                                     <div className="col-lg-8 py-3">
                                         <a href="../assets/img/Lay_Claudia_Resume.pdf" download>
-                                            <img className="img-fluid rounded mx-auto d-block" src="../assets/img/resume.png" alt="" />
+                                            <img className="img-fluid rounded mx-auto d-block" src="../assets/img/resume_2021.png" alt="" />
                                         </a>
                                     </div>
                                 </div>
