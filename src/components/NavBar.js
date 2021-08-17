@@ -19,9 +19,9 @@ function NavBar() {
                             <li className="nav-item">
                                 <a className="nav-link" href="/portfolio">Portfolio</a>
                             </li>
-                            <li className="nav-item">
+                            {/* <li className="nav-item">
                                 <a className="nav-link" href="/contact">Contact</a>
-                            </li>
+                            </li> */}
                         </ul>
                         <div className="ml-auto my-2 my-lg-0">
                             <a className="btn btn-dark rounded-pill nav-link" href="/resume">Resume</a>
